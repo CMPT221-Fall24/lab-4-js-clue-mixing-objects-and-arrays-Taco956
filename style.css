@@ -1,0 +1,33 @@
+html
+{
+    background-color:#3f3f3f;
+}
+header
+{
+    color:rgb(164, 11, 11);
+    text-shadow: #c1aaaa 1px 1px;
+}
+.container2
+{
+    text-align: center;
+}
+input
+{
+    background-color: darkgray;
+    font-family: papyrus, fantasy; 
+    font-size:17px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+}
+.container 
+{
+    font-family: papyrus, fantasy; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+    color: white;
+} 
